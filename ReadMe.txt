@@ -1,4 +1,4 @@
-KPI calculates the uplink and downlink latencies between the 5G gNB and the UPF. Then, it sends the collected data to mongodb.
+Network KPI calculates the uplink and downlink latencies between the 5G gNB and the UPF. Then, it sends the collected data to mongodb.
 The data (in JSON) has the following format:
 - _id (object id)
 - packet_id (TCP packet id)
